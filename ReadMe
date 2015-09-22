@@ -1,0 +1,17 @@
+-Should be able to add tweeters to system
+-process a tweet from a user
+-print the timeline of all tweets for a user
+-search for one word for all the tweets of a tweeter
+-search all tweets in the system (almost done)
+-read information on tweeters from input file
+-read a command file and process commands
+
+
+Commands used so far:
+rtw
+rtt
+out
+ptl
+stf
+ptf
+ssw

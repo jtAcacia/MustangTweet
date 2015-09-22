@@ -1,0 +1,126 @@
+ __  __           _                   _____                   _
+|  \/  |_   _ ___| |_ __ _ _ __   __ |_   _|_      _____  ___| |_
+| |\/| | | | / __| __/ _` | '_ \ / _` || | \ \ /\ / / _ \/ _ \ __|
+| |  | | |_| \__ \ || (_| | | | | (_| || |  \ V  V /  __/  __/ |_
+|_|  |_|\__,_|___/\__\__,_|_| |_|\__, ||_|   \_/\_/ \___|\___|\__|
+                                |___/                           
+----------------------------------------------------------------
+----------------------------------------------------------------
+Command: ptl cayala
+
+cayala's timeline: 
+	"Hello to all the #DataStructures students!" at 01:19:12:05:20:12
+	"You know, if you look at the timestamps, they kinda make no sense." at 01:20:01:20:10:20
+	"Hello there SMU!!!" at 01:20:12:05:20:12
+	"@mfonten: no" at 03:27:12:02:02:03
+	"Here's an awesome video: http://www.youtube.com/watch?v=Ry4BzonlVlw. Watch it. Love it. Trust me." at 04:30:21:06:03:01
+	"They are all horrible, @docWho. Just horrible" at 08:20:10:02:00:00
+----------------------------------------------------------------
+----------------------------------------------------------------
+Command: ptl jsmitty
+
+jsmitty's timeline: 
+	No timeline for user jsmitty :(
+----------------------------------------------------------------
+----------------------------------------------------------------
+Command: ptl mzincone
+
+mzincone's timeline: 
+	"I'm a business major! yaaaay" at 03:14:12:02:12:12
+	"http://bit.ly/HfVchw (click it, laugh, hahaha)" at 09:31:13:20:10:00
+----------------------------------------------------------------
+----------------------------------------------------------------
+Command: ptl docWho
+
+docWho's timeline: 
+	"Hey @rosey, we're going to visit mars, ok?" at 02:10:11:03:20:20
+	"Happy valentines. I wish all of you happiness and puppies and rainbows." at 02:14:12:02:02:04
+	"What show is better, doctor who, game of thrones, sherlock, or none of the above?" at 08:20:10:01:00:00
+	"@rosey, no one cares." at 08:20:12:02:50:20
+----------------------------------------------------------------
+----------------------------------------------------------------
+Command: stf  docWho rosey
+
+User docWho has made these tweets with rosey:
+no results
+----------------------------------------------------------------
+----------------------------------------------------------------
+Command: stf  jsmitty rosey
+
+User jsmitty has made these tweets with rosey:
+no results
+----------------------------------------------------------------
+----------------------------------------------------------------
+Command: ptf  jsmitty
+
+User jsmitty's friends have made these tweets: 
+	jshook's tweet: "BAM, all tens. That's legit yo."
+----------------------------------------------------------------
+----------------------------------------------------------------
+Command: stf  mzincone business
+
+User mzincone has made these tweets with business:
+	mzincone's tweet: "I'm a business major! yaaaay" on 03:14:12 at 2:12:12
+----------------------------------------------------------------
+----------------------------------------------------------------
+Command: rcm jsmitty
+
+	cayala
+	jmmurphy
+	mfonten
+----------------------------------------------------------------
+----------------------------------------------------------------
+Command: rcm cayala
+
+	jsmitty
+	pajamas
+	sloMotion
+----------------------------------------------------------------
+----------------------------------------------------------------
+Command: rcm sloMotion
+
+	docWho
+	jshook
+	rosey
+----------------------------------------------------------------
+----------------------------------------------------------------
+Command: sff sloMotion legit
+no results
+----------------------------------------------------------------
+----------------------------------------------------------------
+Command: ssw  legit
+
+The word (legit) appeared in 
+	jshook's tweet: "BAM, all tens. That's legit yo." on 10:10:10 at 0:10:10
+	sloMotion's tweet: "I hope everyone is ready legit to start school again! @cayala I know you are. Right? Right? Whatever, you're probably gonna do boring things...." on 08:19:12 at 2:40:20
+no results
+----------------------------------------------------------------
+----------------------------------------------------------------
+Command: lst 
+
+	cayala sent 6 tweets
+	docWho sent 4 tweets
+	mfonten sent 3 tweets
+	rosey sent 3 tweets
+	mzincone sent 2 tweets
+	jmmurphy sent 1 tweets
+	jshook sent 1 tweets
+	pajamas sent 1 tweets
+	sloMotion sent 1 tweets
+	jsmitty sent 0 tweets
+----------------------------------------------------------------
+----------------------------------------------------------------
+Command: lst 
+
+	cayala sent 6 tweets
+	docWho sent 4 tweets
+	mfonten sent 3 tweets
+	rosey sent 3 tweets
+	mzincone sent 2 tweets
+	jmmurphy sent 1 tweets
+	jshook sent 1 tweets
+	pajamas sent 1 tweets
+	sloMotion sent 1 tweets
+	jsmitty sent 0 tweets
+----------------------------------------------------------------
+----------------------------------------------------------------

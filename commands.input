@@ -1,0 +1,19 @@
+rtw tweeters.input
+rtt tweets.input
+out outputdata.txt
+ptl cayala
+ptl jsmitty
+ptl mzincone
+ptl docWho
+stf docWho rosey
+stf jsmitty rosey
+ptf jsmitty
+stf mzincone business
+rcm jsmitty
+rcm cayala
+rcm sloMotion
+sff sloMotion legit
+ssw legit
+lst
+lst
+
